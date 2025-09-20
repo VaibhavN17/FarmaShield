@@ -1,0 +1,20 @@
+{
+  "title": "डिजिटल फार्म पोर्टल प्रो",
+  "subtitle": "डुकर और मुर्गी के लिए जैव सुरक्षा",
+  "dashboard": "डैशबोर्ड",
+  "register": "फार्म पंजीकरण",
+  "biosecurity": "बायोसिक्योरिटी",
+  "health": "हेल्थ रिकॉर्ड्स",
+  "alerts": "अलर्ट्स",
+  "guidelines": "दिशा-निर्देश",
+  "monitoring": "निगरानी",
+  "register_cta": "फार्म पंजीकृत करें",
+  "registered_farms": "पंजीकृत फार्म",
+  "active_alerts": "सक्रिय अलर्ट",
+  "vaccinations": "कुल टीकाकरण",
+  "recent_alerts": "हाल के अलर्ट",
+  "farm_health_score": "फार्म स्वास्थ्य स्कोर",
+  "tts_play": "आवाज़ में सुनें",
+  "save_success": "फार्म सफलतापूर्वक पंजीकृत ✅",
+  "contacts": "संपर्क"
+}

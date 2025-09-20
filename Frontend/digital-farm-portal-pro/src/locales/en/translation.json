@@ -1,0 +1,20 @@
+{
+  "title": "Digital Farm Portal Pro",
+  "subtitle": "Biosecurity for Pigs & Poultry",
+  "dashboard": "Dashboard",
+  "register": "Register Farm",
+  "biosecurity": "Biosecurity",
+  "health": "Health Records",
+  "alerts": "Alerts",
+  "guidelines": "Guidelines",
+  "monitoring": "Monitoring",
+  "register_cta": "Register a Farm",
+  "registered_farms": "Registered Farms",
+  "active_alerts": "Active Alerts",
+  "vaccinations": "Total Vaccinations",
+  "recent_alerts": "Recent Alerts",
+  "farm_health_score": "Farm Health Score",
+  "tts_play": "Play alert voice",
+  "save_success": "Farm registered successfully ✅",
+  "contacts": "Contact"
+}
